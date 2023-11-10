@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">S23W04CardDealer</string>
+    <string name="title_activity_history">HistoryActivity</string>
 </resources>
